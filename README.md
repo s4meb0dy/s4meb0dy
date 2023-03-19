@@ -1,7 +1,7 @@
-### Hi there 👋
 
-<!--
-**s4meb0dy/s4meb0dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Hi there, I am Bodnar Anton a beginning FrontEnd Developer
 
 Little about me
 
@@ -13,4 +13,4 @@ Little about me
 - 📫 How to reach me: antonbond2004@gmail.com
 - 😄 Pronouns: Him/They/Them
 - ⚡ Fun fact: Love playing PC games and watch interesting films.
--->
+
